@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Dome_MVC_MVP_MVVM.iml" filepath="$PROJECT_DIR$/.idea/Dome_MVC_MVP_MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dome_MVC_MVP_MVVM.iml" filepath="$PROJECT_DIR$/.idea/modules/Dome_MVC_MVP_MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dome_MVC_MVP_MVVM.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dome_MVC_MVP_MVVM.app.iml" />
     </modules>
   </component>
 </project>
